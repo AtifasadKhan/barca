@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Players from './components/outputs/Players';
 import NewPlayer from './components/inputs/NewPlayer';
